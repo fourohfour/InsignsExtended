@@ -1,0 +1,7 @@
+name: InsignsExtended
+author: FourOhFour
+main: io.github.fourohfour.InsignsExtended.InsignsExtended
+version: 0.3
+commands:
+depend: [InSigns]
+softdepend: [Vault]
